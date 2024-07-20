@@ -14,7 +14,7 @@ Goblin Slider is a visually captivating image slider built using HTML, CSS, and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/goblin-slider.git
+    git clone https://github.com/Amiyansu/Goblin.git
     ```
 
 2. Navigate to the project directory:
